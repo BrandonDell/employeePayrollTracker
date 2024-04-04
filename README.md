@@ -21,7 +21,8 @@ This webisite portfolio offers five examples of projects that I have finsihed wi
  ![DellCioppia](./Assets/images/screenShot.png)
 
  ## Credits
-UCF Coding Bootcamp
+ -UCF Coding Bootcamp Coures.
+ -Tutor Chris helped me with debugin average salary, Math.floor section, and get random person 
  
 
  ## License
